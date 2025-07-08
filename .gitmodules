@@ -10,3 +10,9 @@
 [submodule "matam"]
 	path = matam
 	url = https://github.com/Sanchell1o/matan.git
+[submodule "python"]
+	path = python
+	url = https://github.com/Sanchell1o/python.git
+[submodule "python_first"]
+	path = python_first
+	url = https://github.com/Sanchell1o/python_first.git
