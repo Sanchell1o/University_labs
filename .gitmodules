@@ -16,3 +16,9 @@
 [submodule "python_first"]
 	path = python_first
 	url = https://github.com/Sanchell1o/python_first.git
+[submodule "Numerical_Methods"]
+	path = Numerical_Methods
+	url = https://github.com/Sanchell1o/Numerical-methods-of-analysis.git
+[submodule "Statistics-and-Data-Analysis"]
+	path = Statistics-and-Data-Analysis
+	url = https://github.com/Sanchell1o/Statistics-and-Data-Analysis.git
