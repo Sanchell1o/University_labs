@@ -4,3 +4,9 @@
 [submodule "algosi_first"]
 	path = algosi_first
 	url = https://github.com/Sanchell1o/Algosi_first.git
+[submodule "linal"]
+	path = linal
+	url = https://github.com/Sanchell1o/linal.git
+[submodule "matam"]
+	path = matam
+	url = https://github.com/Sanchell1o/matan.git
