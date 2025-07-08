@@ -22,3 +22,6 @@
 [submodule "Statistics-and-Data-Analysis"]
 	path = Statistics-and-Data-Analysis
 	url = https://github.com/Sanchell1o/Statistics-and-Data-Analysis.git
+[submodule "matan"]
+	path = matan
+	url = https://github.com/Sanchell1o/matan
