@@ -1,0 +1,3 @@
+[submodule "algosi"]
+	path = algosi
+	url = https://github.com/Sanchell1o/Algosi.git
