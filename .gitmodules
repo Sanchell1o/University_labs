@@ -1,3 +1,6 @@
 [submodule "algosi"]
 	path = algosi
 	url = https://github.com/Sanchell1o/Algosi.git
+[submodule "algosi_first"]
+	path = algosi_first
+	url = https://github.com/Sanchell1o/Algosi_first.git
